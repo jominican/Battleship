@@ -1,0 +1,10 @@
+How to play Battleship:
+
+1) Click on player's side of the board to place ships. There are 4 types of ships: 1 Aircraft Carrier, 1 Battleship, 1 Cruiser, and 2 Destroyers
+2) Click on a ship already placed will remove the ship
+3) Once all ships have been placed, click on the Select File button to select a .battle file for the computer
+4) Click "Start" to begin game
+5) Click on the computer's side of the board to hit a ship
+6) Game will end once a player/computer's ships have all been hit. 
+
+7) glhf
